@@ -14,7 +14,7 @@ public class Main {
     public static void inicializarBaseDeDatos(){
         //Pregunta #1
         ArrayList<Opcion> opcionesPregunta1 = new ArrayList<>();
-        Opcion opcion1 = new Opcion(1, "6");        //Correcta
+        Opcion opcion1 = new Opcion(1, "6");
         Opcion opcion2 = new Opcion(2, "3");
         Opcion opcion3 = new Opcion(3, "7");
         Opcion opcion4 = new Opcion(4, "20");
@@ -31,7 +31,7 @@ public class Main {
         ArrayList<Opcion> opcionesPregunta2 = new ArrayList<>();
         Opcion opcion5 = new Opcion(1, "Europa");
         Opcion opcion6 = new Opcion(2, "Asia");
-        Opcion opcion7 = new Opcion(3, "América");   //Correcta
+        Opcion opcion7 = new Opcion(3, "América");
         Opcion opcion8 = new Opcion(4, "África");
 
         opcionesPregunta2.add(opcion5) ;
@@ -70,7 +70,7 @@ public class Main {
         //Pregunta # 5
         ArrayList<Opcion> opcionesPregunta5 = new ArrayList<>();
         Opcion opcion17 = new Opcion(1, "Plutón");
-        Opcion opcion18 = new Opcion(2, "Tierra");       //Correcta
+        Opcion opcion18 = new Opcion(2, "Tierra");
         Opcion opcion19 = new Opcion(3, "Martes");
         Opcion opcion20 = new Opcion(4, "Júpiter");
 
@@ -82,7 +82,7 @@ public class Main {
 
         //Pregunta #6
         ArrayList<Opcion> opcionesPregunta6 = new ArrayList<>();
-        Opcion opcion21 = new Opcion(1, "Italia");       //Correcta
+        Opcion opcion21 = new Opcion(1, "Italia");       
         Opcion opcion22 = new Opcion(2, "Inglaterra");
         Opcion opcion23 = new Opcion(3, "Mexico");
         Opcion opcion24 = new Opcion(4, "Francia");
